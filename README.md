@@ -1,0 +1,1 @@
+This repo contains the example from Rust book. I wrote it with comments and with suggestions for Rust coding.
