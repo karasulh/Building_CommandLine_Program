@@ -5,3 +5,5 @@ It searches any keyword in any file. Keyword and file is depending on your choic
 - to set environment variable: **$env:CASE_INSENSITIVE=1** 
 - to run it by: **cargo run body poem.txt**
 - to run it to see results with standard output stream(stdout) in output.txt file by: **cargo run body poem.txt > output.txt** 
+
+Result can be seen in the output.txt file.
